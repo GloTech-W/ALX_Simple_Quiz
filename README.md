@@ -1,3 +1,32 @@
+# JavaScript Projects
+
+This repository contains two simple projects implemented with HTML, CSS, and JavaScript.
+
+## Project 1: Simple JavaScript Calculator
+
+This project is a simple JavaScript calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division) on two input numbers and displays the result.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division (handles division by zero)
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+
+## Project 2: Interactive Quiz Application
+
 # Interactive Quiz Application
 
 This project implements a simple interactive quiz application using HTML, CSS, and JavaScript. It allows users to select an answer from multiple choices and provides immediate feedback on whether the chosen answer is correct or incorrect.
@@ -29,5 +58,6 @@ The project consists of the following files:
 
 - `index.html`: Contains the quiz question, answer choices, and feedback display.
 - `styles.css`: Includes minimal styling for layout and presentation.
-- `script.js`: Implements the logic for checking user answers and providing feedback.
+- `quiz.js`: Implements the logic for checking user answers and providing feedback.
+
 
